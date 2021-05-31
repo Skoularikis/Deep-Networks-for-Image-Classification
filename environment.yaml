@@ -1,4 +1,4 @@
-name: /home/kgskoul/Desktop/PersonalGitRepos/Deep_Networks_for_Image_Classification/env
+name: skoularikis_deep_networks_env
 channels:
   - pytorch
   - conda-forge
@@ -154,4 +154,3 @@ dependencies:
   - zipp=3.4.1=pyhd8ed1ab_0
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.9=haebb681_0
-prefix: /home/kgskoul/Desktop/PersonalGitRepos/Deep_Networks_for_Image_Classification/env
