@@ -7,6 +7,8 @@ Implementation of both the original models - VGG16, ResNet18, Inception v1 - and
 
 For the avid reader, an extensive six page paper is also compiled, describing models' principles, training process and experimental results on the aforementioned datasets.
 
+
+
 #### Improtant Notes:
 <ul>
 <li>Due to time and hardware restrictions, all images were resized the size of 64 x 64. </li>
@@ -43,14 +45,21 @@ Clone repository (e.g with https)
 git clone https://github.com/Skoularikis/Deep-Networks-for-Image-Classification.git
 ``
 
-Create env for from file:
+Providing conda is installed locally you can create env for from file:
 
-``
-conda env create --file environment.yaml
-``
+``conda env create --file environment.yaml``
 
-## Since
-**April 2021 - Present**
+Activate env: 
+
+``conda activate skoularikis_deep_networks_env``
+
+To make development easier jupyter-lab has been installed.
+
+
+
+## Known Issues
+Due to known issues with loading notebooks on Github you can check the entire repository's content online on [nbviewer](https://nbviewer.jupyter.org/github/Skoularikis/Deep-Networks-for-Image-Classification/tree/main/)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
