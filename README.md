@@ -45,7 +45,7 @@ Clone repository (e.g with https)
 git clone https://github.com/Skoularikis/Deep-Networks-for-Image-Classification.git
 ``
 
-Providing conda is installed locally you can create env for from file:
+Providing conda is installed locally you can create env from file(environment.yaml):
 
 ``conda env create --file environment.yaml``
 
