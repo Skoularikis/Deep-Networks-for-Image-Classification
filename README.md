@@ -7,7 +7,7 @@ Implementation of both the original models - VGG16, ResNet18, Inception v1 - and
 
 For the avid reader, an extensive six page paper is also compiled, describing models' principles, training process and experimental results on the aforementioned datasets.
 
-### Technologies Used:
+### Written with:
 Python, Pytorch, Matplotlib, Pandas, Scikit-Learn
 
 
